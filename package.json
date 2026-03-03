@@ -1,0 +1,25 @@
+{
+  "name": "street-food-3d",
+  "version": "1.0.0",
+  "description": "3D Digital Street Food Experience — India Edition",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.170.0",
+    "@react-three/fiber": "^8.17.10",
+    "@react-three/drei": "^9.117.3",
+    "gsap": "^3.12.5",
+    "zustand": "^5.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "vite": "^6.0.5",
+    "vite-plugin-glsl": "^1.3.1"
+  }
+}
